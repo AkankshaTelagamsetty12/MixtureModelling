@@ -1,2 +1,3 @@
 # MixtureModelling
-Mixture Modelling of TSM stock
+Mixture Modelling of TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY LTD
+
